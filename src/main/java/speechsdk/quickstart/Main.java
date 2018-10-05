@@ -1,7 +1,7 @@
 package speechsdk.quickstart;
 
 import java.util.concurrent.Future;
-import com.microsoft.cognitiveservices.speech;
+import com.microsoft.cognitiveservices.speech.*;
 
 /**
  * Quickstart: recognize speech using the Speech SDK for Java.
